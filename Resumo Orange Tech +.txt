@@ -1,0 +1,425 @@
+# DIO - Orange Tech +
+
+## Tenho um banco digital para desenvolver aplicações para seu uso:
+
+- Defino os meios onde será utilizado (aplicação web e mobile);
+- Definir as plataformas (Android e iOS).
+- Prepare-se para a jornada (Onboarding)
+    - Introdução ao Desenvolvimento Moderno de Software
+        
+        # Etapas de um projeto
+        
+        - UX/UI Design
+            - Projetar UX, construindo o wireframe da aplicação (Ferramentas utilizadas no UX/UI Design: Figma; Adobe XP);
+            - Projetar UI, (desenhar a interface, se utilizando de ferramentas como o Photoshop Illustrator ou Corel Draw);
+        
+        ![Objetivos de cada profissional envolvido.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31ad32b2-dcd3-4954-a517-c16cf35cbd81/Untitled.png)
+        
+        Objetivos de cada profissional envolvido.
+        
+        - Frontend
+            - Modelo Cliente-Servidor (Frontend-Backend);
+            - O profissional do Frontend programa a parte visual do cliente; guiando-se pelo protótipo desenvolvido, utilizando-se das 3 principais tecnologias para programar o ambiente (HTML, CSS e JavaScript);
+            - Os códigos são desenvolvidos nos IDE’s, ambientes de desenvolvimento integrado;
+            
+        - Frameworks
+            - são facilitadores de desenvolvimento que auxiliam no planejamento, depuração e execução dos códigos; ganhando tempo no processo (ex.: Angular, Laravel; Vue);
+        - Backend
+            - O profissional do Backend desenvolve a parte de busca por dados entre o cliente-servidor; aplicando regras de negócios, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo. (ex.: JAVA, PHP e C#);
+            - API (Application Programming Interface) um intermediário de software que permite que dois aplicativos conversem entre si;
+        
+        ![Etapas de comunicação em um processo Backend.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3457e067-b26e-43ea-943f-fa79df1d1957/Untitled.png)
+        
+        Etapas de comunicação em um processo Backend.
+        
+        - FullStack
+            - Desenvolvedores FullStacks são profissionais que conhecem todos os processos em Frontend e Backend, trabalham desenvolvendo ou gerenciando projetos;
+        - QA
+            - Quality Assurance, conjunto de ações que as empresas realizam com o objetivo de entregar aos consumidores, um produto ou serviço com alto nível de qualidade;
+        - Infraestrutura
+            - Modelo cliente-servidor;
+            - Segurança da tecnologia da informação (lógica e física);
+            - Mão-de-obra especializada (software e hardware);
+            - Infraestrutura local ou na nuvem;
+        - Cloud
+            - Nuvem pública - empresas que oferecem serviços de armazenamento (Amazon Web Services; Microsoft Azure; Google Cloud Plataform);
+            - Vantagens - Preço; Facilidade de contratação, configuração e infraestrutura, escalabilidade e performance;
+            - Profissional de Cloud Computing - É responsável pela infraestrutura de nuvem;
+        - Mobile
+            - Desenvolvimento mobile;
+            - Android (JAVA e/ou Kotlin);
+            - iOS (Swift).
+            - Desenvolvimento híbrido (Ionic; Flutter; React Native).
+    
+- Princípios de Desenvolvimento de Software
+    - Introdução à programação e Pensamento Computacional
+        - Pensamento computacional
+            
+            Objetivo geral - Será capaz de entender o que significa pensar computacionalmente. Pensamento aplicável à qualquer área do conhecimento. Dessa forma, será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+            
+            - Baseado em 4 pilares (dividir um problema complexo em subproblemas):
+                - Decomposição;
+                - Reconhecimento de padrões;
+                - Abstração;
+                - Design de algoritmos.
+            - Competências
+                - Pensamento sistemático;
+                - Colaboração dentro da equipe;
+                - Criatividade e design;
+                - Facilitador.
+            - Habilidades
+                - Raciocínio lógico;
+                    - Indução;
+                    - Dedução;
+                    - Abdução.
+                - Aperfeiçoamento.
+            - Pilares: Decomposição
+                - Análise;
+                - Síntese;
+                    
+                    Como decompor:
+                    
+                    - Identificar ou coletar dados;
+                    - Agregar os dados;
+                    - Funcionalidade.
+            - Pilares: Padrões
+                - Reconhecimento de padrões
+            - Pilares: Abstração
+                - Generalização;
+                - Representação;
+            - Pilares: Algoritmos
+                - Processamento de dados;
+                - Instruções;
+                - Desenvolvimento do programa;
+                    - Instruções detalhadas;
+                    - Algoritmo;
+                    - Programa.
+                    
+                    Etapas da construção de um algoritmo:
+                    
+                    - Narrativa;
+                    - Fluxograma;
+                    - Pseudocódigo.
+                    
+                    Como construir um algoritmo:
+                    
+                    - Compreensão do problema;
+                    - Definição dados de entrada;
+                    - Definir processamento;
+                    - Definir dados de saída;
+                    - Utilizar um método de construção;
+                    - Teste e diagnóstico.
+        - Introdução à lógica de programação
+            
+            Objetivo geral - Foca em apresentar o conceito de lógica aplicada à programação, como um processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas.
+            
+            - Lógica
+                - Problema;
+                - Sequência de instruções;
+                - Ação.
+            - Técnicas de lógica de programação
+                - Técnica linear - ordenação de elementos por uma única propriedade;
+                - Técnica estruturada - Organização, disposição e ordem dos elementos ssenciais que compõem um corpo (concreto ou abstrato);
+                - Técnica modular - Controlada por um conjunto de regras.
+        - Fundamentos de algoritmos
+            
+            Objetivo - Serão apresentados os conceitos básicos para o correto entendimento de algoritmos, tais como variáveis, tipos de dados, instruções, condições e outros temas relacionados.
+            
+            - Tipologia e variáveis;
+                - Informação:
+                    - Dados;
+                        - Numéricos;
+                            - Inteiros;
+                            - Reais.
+                        - Caracteres;
+                        - Lógicos.
+                            - Booleano;
+                                - Verdadeiro;
+                                - Falso.
+                    - Instruções.
+                - Variável - pode assumir qualquer um dos valores de um determinado conjunto de valores. Podem ser de ação ou de controle, variável ou constante.
+                    
+                    Regras:
+                    
+                    - Atribuição de um ou mais caracteres;
+                    - Primeira letra - não número;
+                    - Sem espaços em branco;
+                    - Vedado;
+                    - Utilização de palavras reservadas;
+                    - Caracteres e números.
+            - Instruções primitivas - Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados;
+                - Operadores:
+                
+                ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f843d46c-ddf4-467e-84bb-7aaaa0d890af/Untitled.png)
+                
+            - Estruturas condicionais e operadores;
+                
+                ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b44f04c2-8009-4db3-bec3-a38f32627691/Untitled.png)
+                
+                - Operadores relacionais
+                
+                ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e842657e-7cc9-4cc2-9f81-88917dd12383/Untitled.png)
+                
+                - Condicional simples
+                    - Condição;
+                    - Operação.
+                - Condicional composta
+                    - Condição → Exceção;
+                    - Operação.
+                - Condicional encadeada
+                    - Condição ➡️ Condição ➡️ Exceção
+                        
+                             ⬇️                  ⬇️
+                        
+                        Operação      Operação
+                        
+                - Operadores lógicos
+                    - AND;
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88a5006b-ce0b-4ff8-ad52-ef9c251a5c48/Untitled.png)
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e4f4ec5-7a37-48e4-a53c-a560f21a623f/Untitled.png)
+                    
+                    - OR;
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/354eff03-f072-40ed-9981-38a758e789b6/Untitled.png)
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd14581f-6d0e-47a4-af3e-b5ee88ec5101/Untitled.png)
+                    
+                    - NOT.
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1740950-da33-46ff-bc98-0d2d1dd1dccb/Untitled.png)
+                    
+                    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b83a332f-7cd5-41cf-81bd-b103e907d294/Untitled.png)
+                    
+            - Estruturas de repetição;
+                - Laços;
+                - Controle de fluxo;
+                - Repetição;
+                - Malha de repetição;
+                - Loop.
+            - Vetores e matrizes;
+                - Container;
+                - Matriz unidimensional.
+                    - Coleção de variáveis;
+                    - Contíguas em memória;
+                    - Índices.
+            - O que são funções?
+                - As funções, ou sub-rotinas, são blocos de instruções que realizam tarefas específicas. São identificados por nomes e parâmetros.
+            - Instruções de entrada/saída.
+                - Consiste na inserção e recebimento de dados do mundo real por meio de ação  e alguma interface, seja teclado, mouse, arquivos, entre outros.
+        - Linguagem de programação
+            - Introdução à linguagens de programação
+                
+                Objetivo - apresentar os paradigmas de programação existentes, incluindo o conceito em si. As linguagens de programação são baseadas em um ou mais
+                paradigmas sendo o último caso conhecido como linguagem multiparadigma.
+                
+                - Problemas computacionais - Objeto de discussão que possui instruções passo a passo que são mais facilmente resolvíveis em ambiente computacinal.
+                    - Problemas de decisão;
+                    - Problemas de busca;
+                    - Problemas de otimização.
+            - Como um computador entende o programa?
+                - Código-fonte
+                    - Tradução;
+                        - Geração de programa objeto;
+                        - Execução de programa objeto.
+                    - Interpretação.
+                        - Programa fonte executado diretamente.
+            - Características de um programa
+                - Desenvolvimento de programas
+                    - Legibilidade;
+                        - Facilidade de leitura;
+                        - Compreensão;
+                        - Ortogonalidade;
+                        - Definição adequada das estruturas.
+                    - Redigibilidade;
+                        - Pode conflitar com a legibilidade;
+                        - Ortogonalidade;
+                        - Simplicidade da escrita;
+                        - Suporte à abstração;
+                        - Reuso do código;
+                        - Expressividade.
+                    - Confiabilidade;
+                        - verificação de tipos;
+                        - Trata exceções;
+                        - Uso de ponteiros;
+                        - Compatibilidade entre compiladores.
+                    - Custo.
+                        - Treinamento;
+                        - Codificação;
+                        - Compilação;
+                        - Execução;
+                        - Infra-estrutura.
+            - Análises de código
+                - Análise léxica;
+                    - Particionar;
+                    - Classificar;
+                    - Eliminar.
+                - Análise sintática;
+                - Análise semântica.
+            - Paradigmas de programação
+                
+                Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação.
+                
+                - Orientação à objeto;
+                - Procedural;
+                - Funcional;
+                - Estruturado;
+                - Computação distribuída;
+                - Lógico.
+                - Paradigma estruturado
+                    - Sequência;
+                    - Decisão;
+                    - Iteração.
+                - Orientação à objeto
+                    - Atributos;
+                    - Métodos;
+                    - Estados.
+                - Pilares de Orientação a Objeto:
+                    - Herança;
+                    - Encapsulamento;
+                    - Polimorfismo;
+                    - Abstração.
+    - Introdução ao Git e ao Github
+        - Introdução ao Git
+            
+            ## Entendendo o que é o Git e sua importância
+            
+            O Git é um software de versionamento de código distribuído, ou seja um gerenciador de versões (criado por Linus Torvalds), enquanto o Github, um repositório destas versões.
+            
+            O Git e o Github oferecem:
+            
+            - Controle de versão;
+            - Armazenamento em Nuvem (Microsoft);
+            - Trabalho em equipe;
+            - Melhorar seu código;
+            - Reconhecimento.
+        - Navegação via Command line interface e instalação
+            
+            # Comandos básicos para um bom desempenho no terminal
+            
+            ## GUI x CLI
+            
+            O Git é um software do tipo CLI - Command line interface. Difere do Grafic line interface. 
+            
+            Comandos básicos de navegação (via CMD)
+            
+            - Mudar de pastas
+                - CD - “cd /” eleva o diretório para a pasta “C:\”
+                - CD + “nome da pasta” - navega até a pasta solicitada. Ex.: cd Windows.
+                - CD .. - Retrocede uma pasta acima da atual. Ex.: volta da pasta Windows para a pasta raiz C:\
+            - Listar as pastas
+                - DIR - lista o diretório do usuário.
+            - Criar pastas/arquivos
+                - MKDIR - Cria uma nova pasta.
+            - Deletar pastas/arquivos
+                - DEL + “nome da pasta” - Deleta todo conteúdo de uma pasta especifica, mas não ela em si. Ex.: del Windows, deletaria todo conteúdo, mas não o diretório.
+                - RMDIR “nome da pasta” /s /q - Deleta a pasta especificada no parâmetro.
+            
+        - Entendendo como o Git funciona por baixo dos panos
+            - Tópicos fundamentais para entender o funcionamento do Git
+                - SHA1
+                    
+                    A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro). É um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA). A encriptação gera um conjunto de caracteres identificadores de 40 dígitos.
+                    
+                - Objetos fundamentais
+                - Sistema distribuído
+                - Segurança
+            - Objetos internos do Git
+                - Blobs - Bloco básico de composição onde são armazenados o SHA1 dos arquivos referenciados. São objetos que contém metadados dos arquivos para manipulação no Git;
+                    - Estrutura básica de um Blob:
+                        - Tipo
+                        - Tamanho
+                        - \0
+                        - Conteúdo do arquivo
+                        
+                        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84e66e04-9c3d-4051-8a87-a9681ef712ea/Untitled.png)
+                        
+                - Trees - Armazenam tipos variados de blobs, apontando para as estruturas de onde se encontram os arquivos, para blobs ou outras árvores dentro da estrutura de dados;
+                    - Estrutura básica de uma tree:
+                        - Tipo
+                        - Tamanho
+                        - \0
+                        
+                        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/695764a7-0b5e-4133-9e98-45bd486ec213/Untitled.png)
+                        
+                        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/acc558fa-0f83-4d0c-9e21-4fe6e17ea24c/Untitled.png)
+                        
+                - Commits - São objetos que unificam toda esta estrutura de metadados, dando significado ao processo de versionamento com seus dados e metadados.
+                    - Estrutura básica de um commit:
+                        - Tree
+                        - Parent
+                        - Autor
+                        - Mensagem
+                        - Timestamp
+                        
+                        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e168af55-58f4-45fc-8200-9f7831268c4d/Untitled.png)
+                        
+                        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a7e7cf4-8c1c-4405-bbb9-7fe3b39efefa/Untitled.png)
+                        
+                - Sistema distribuído Seguro
+                    - Impossíveis de serem alterados.
+                
+            - Chave SSH e Token
+                
+                Alteração do formato de login com o intuito de melhorar o sistema de segurança:
+                
+                - Chave SSH - É uma forma estabelecer uma conexão segura e encriptada de entre duas máquinas. Possui dois níveis de acesso:
+                    - Chave pública;
+                    - Chave privada.
+                - Token - Assemelha-se ao processo de login, mas ao invés de utilizar a senha, será solicitado essa chave Token.
+                    
+                    
+        - Primeiros comandos com Git
+            
+            Iniciando o Git e criando um commit:
+            
+            - Iniciar o Git
+                - git init
+                    
+                    Inicia/cria o repositório no git.
+                    
+                - git add
+                    
+                    Adiciona o(s) arquivo(s) ao git para gerenciamento de versão. (git add *)
+                    
+                - git commit
+                    
+                    git commit -m “commit inicial”.
+                    
+        - Ciclo de vida dos arquivos no Git
+            
+            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/113c3beb-189d-429c-8b03-df93bcc135a6/Untitled.png)
+            
+            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a12aa32-2771-46bb-bbe9-17379645adcd/Untitled.png)
+            
+            ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2fa9af6-476c-4e8a-8242-1dfd0cbae0e2/Untitled.png)
+            
+        - Git status
+            
+            Informa o status dos arquivos (unmodified, modified, staged) associados às trees dentro do git.
+            
+    - Como entregar seu desafio de projeto
+        
+        ### **Desafios de Projeto DIO**
+        
+        Um dos elementos centrais da nossa metodologia educacional é o conceito de ***[Project-Based Learning / Problem-Based Learning* (PBL)](https://www.uvu.edu/otl/resources/group_work/pbl.html)**. Nesse contexto, nossos Desafios de Projeto (também conhecidos como Labs) têm como objetivo aplicar o PBL em conjunto com o GitHub, para criação de um portfólio de soluções consistente ao longo da nossa jornada educacional.
+        
+        **IMPORTANTE: Os Labs entregues na plataforma da DIO ficam disponíveis para as empressas parceiras avaliá-los tecnicamente. Por isso, caprichem no desenvolvimento e documentação de suas soluções, pois elas podem ser um grande diferencial ao seu favor em um processo de contratação** [😎](https://emojipedia.org/pt/rosto-sorridente-com-%C3%B3culos-escuros/)
+        
+        ### **O Que Você Precisa Saber Sobre Git e GitHub?**
+        
+        **I. Para projetos mais simples, você pode utilizar funcionalidades oferecidas pelo próprio GitHub, como por exemplo:**
+        
+        - ***Criar um novo repositório (sempre público)** através do link [https://github.com/new](https://github.com/new) (acessível pelo site através do botão "+", depois "Novo repositório"). Alternativamente, também é comum utilizar o conceito de "fork" em um projeto base disponibilidado pelo expert (esta funcionalidade encontra-se no canto superior direito da página do repositório no GitHub). Tecnicamente, um "fork" cria uma cópia exata do projeto em seu GitHub, mantendo assim uma referência direta ao código original, o que é muito útil para projeto com uma base sólida a ser seguida.*
+        - *Lembre-se de que, **a URL criada no item anterior é a que você deve entregar ao finalizar o(s) desafio(s) proposto(s) no Lab**. Por exemplo: [https://github.com/falvojr/lab-banco-digital-oo](https://github.com/falvojr/lab-banco-digital-oo), onde "falvojr" representa o usuário do GitHub e "lab-banco-digital-oo" é o nome do repositório.*
+        - *Por fim, **o GitHub possui um editor de código online, o qual pode ser acessado apenas teclando o simbolo de "ponto final" em seu teclado**. Com isso, uma versão Web do VSCode será aberta e você poderá editar os arquivos do seu projeto como se tivesse essa IDE instalada em sua máquina. Além disso, esta ferramenta conta com todo controle e versionamento de código (via Git, obviamente), onde você pode fazer normalmente os seus commits, pushes etc.*
+        
+        *Nesse contexto, segue um conteúdo exclusivo do [DIO Global](https://lp.dio.me/global/), que foi disponibilizado gratuitamente para que todos entendam como o GitHub pode ser uma ferramenta poderosa para criação do nosso portfólio de projetos: [Criando Seu Currículo Online Usando Apenas Ferramentas do GitHub](https://www.youtube.com/watch?v=WfD_S2Vi4qI&t=1304s).*
+        
+        **II. Por outro lado, caso você esteja desbravando Desafios de Projeto mais complexos e robustos, recomendamos que consuma alguns dos nossos conteúdos educacionais voltados para o entendimento total desta tecnologia, são eles:**
+        
+        1. *Curso: [Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)*
+        2. *Curso: [Trabalhando com Branches no GitHub](https://web.dio.me/course/trabalhando-com-branches-no-github/learning/32d05c5a-53b7-4f1d-a798-b9a8658240de) (opcional)*
+        3. *Curso: [Git e GitHub Focado em PullRequest](https://web.dio.me/course/git-e-github-focado-em-pullrequest/learning/7ee9e586-a200-41de-a075-fd6a7b4b5a1e) (opcional)*
+        4. *Lab: [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c)*
